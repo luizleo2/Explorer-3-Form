@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../Projeto 2-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RocketSeat"
+	}
+}
